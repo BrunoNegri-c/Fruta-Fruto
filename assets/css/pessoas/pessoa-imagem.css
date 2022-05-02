@@ -1,0 +1,23 @@
+.pessoa-imagem {
+    height: 300px;
+    margin: 0 auto;
+    width: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    /* para deixar a imagem redonda */
+    border-radius: 100%;
+}
+
+.pessoa-imagem--roberta {
+    background-image: url('../../img/Roberta.png');
+}
+
+.pessoa-imagem--marcela {
+    background-image: url('../../img/Marcela.png');
+}
+
+.pessoa-imagem--andreia {
+    background-image: url('../../img/Andreia.png');
+}
